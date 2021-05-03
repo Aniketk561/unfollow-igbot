@@ -20,7 +20,7 @@ An Simple Instagram bot that unfollows people you have been following that don't
 
 * All the IDs that Bot unfollows will be listed in unfollwers-log.csv. If you want to follow any of them later, you can search and follow again by searching their username.
 
-#That's It. All done right and proper. Hope you like it. For any queries or suggestions feel free to raise an issue on github or Contact me on Telegram @raiden57.
+## That's It. All done right and proper. Hope you like it. For any queries or suggestions feel free to raise an issue on github or Contact me on Telegram @raiden57.
 
 
 
